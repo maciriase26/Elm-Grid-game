@@ -24,6 +24,8 @@ This project recreates a color-flood puzzle game in Elm, a purely functional lan
    elm-live main.elm --port=8001 --open -- --output=elm.js
    ```
 
+Should load a url-
+![alttext](images/elmdrench.png)
 
 ## Why did i choose elm?
 - No runtime errors: the compiler catches mistakes early
