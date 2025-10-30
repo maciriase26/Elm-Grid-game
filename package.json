@@ -1,0 +1,16 @@
+{
+  "name": "drnch.elm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "elm-live main.elm --open -- --output=elm.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "elm-live": "^4.0.2"
+  }
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Elm Drench</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body style="padding: 2em;">
+    <div id="elm-node"></div>
+  
+    <script src="elm.js"></script>
+    <script>
+      var app = Elm.Main.init({
+        node: document.getElementById("elm-node"),
+        flags: null
+      });
+    </script>
+  </body>
+</html>
