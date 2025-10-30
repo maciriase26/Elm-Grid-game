@@ -1,0 +1,17 @@
+# Elm build files
+elm-stuff/
+elm.js
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS-specific
+.DS_Store
+
+# Editor configs
+.vscode/
+.idea/
